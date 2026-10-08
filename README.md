@@ -3,7 +3,7 @@
 - Student Name: Lê Nguyễn Thảo Minh
 - Student: 4956030034
 - Course: Chuyển đổi số
-- University:Trường Đại học Quy
+- University:Trường Đại học Quy Nhơn
 ## Nội dung repository
 Repository này lưu trữ các tài liệu phục vụ học tập môn Chuyển đổi số.
 ## Tài liệu
